@@ -42,6 +42,6 @@ bert.py depends on the Python modules:
     From Scikit-learn
         sklearn,
         sklearn.model_selection;
-    From Python Standard Library
+    From Python Standard Library:
         pandas,
         numpy
