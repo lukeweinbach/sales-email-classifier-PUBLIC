@@ -11,9 +11,9 @@ This README describes the contents of the project directory. For a more detailed
 ## File Overview
 
 The raw data used for the project is contained within
-    &emsp raw-data-final.xlsx
+    raw-data-final.xlsx
 and cleaned by dataclean.py to produce the actual training data input file
-    - clean-data-final.csv
+    clean-data-final.csv
 
 **NOTE** The data used in this project is a set of real email threads from sales representatives at Reporting Xpress. Each example was hand-labeled with the appropriate category. This data was acquired with permission from Reporting Xpress for use in this project.
 
