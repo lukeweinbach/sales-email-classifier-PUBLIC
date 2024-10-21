@@ -28,20 +28,20 @@ The directories 'save_model_here' and 'test_trainer' are empty, and installed wi
 dataclean.py is the code used to clean up the raw excel data and export it to a new csv file for use in training the model
 dataclean.py depends on the Python modules:
     re,
-    pandas
+    pandas;
 
 bert.py is the implementation of the model, including setup and training
 bert.py depends on the Python modules:
     From PyTorch:
         torch,
-        torch.nn
+        torch.nn;
     From HuggingFace:
         transformers,
         datasets,
-        evaluate
+        evaluate;
     From Scikit-learn
         sklearn,
-        sklearn.model_selection
+        sklearn.model_selection;
     From Python Standard Library
         pandas,
         numpy
