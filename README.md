@@ -11,7 +11,7 @@ This README describes the contents of the project directory. For a more detailed
 ## File Overview
 
 The raw data used for the project is contained within
-    - raw-data-final.xlsx
+    &emsp raw-data-final.xlsx
 and cleaned by dataclean.py to produce the actual training data input file
     - clean-data-final.csv
 
