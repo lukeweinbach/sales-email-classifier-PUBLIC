@@ -23,8 +23,6 @@ The directories 'save_model_here' and 'test_trainer' are empty, and installed wi
 
 **NOTE** The trainer function in bert.py is set to store model output in test_trainer by default
 
-The summary paper is the word document called 'Final Project Paper'
-
 ## Code Files and Their Dependencies
 
 dataclean.py is the code used to clean up the raw excel data and export it to a new csv file for use in training the model
