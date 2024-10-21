@@ -4,7 +4,7 @@ Project Author - Luke Weinbach
 Course Instructor - Tom McCoy
 Date of Submission - 05/06/2024
 
-This README describes the contents of the project directory. For more general information regarding the project's purpose and functionality, see the written report 'Final Project Paper'. 
+This README describes the contents of the project directory. For a more detailed overview of the project's purpose and functionality, see the written report, which is available on my LinkedIn page. Or, reach out to me via email at luke.weinbach@yale.edu
 
 **NOTE** This is a publicly available repository designed to exhibit the code for the project. The data-containing files "raw-data-final.xlsx" and "clean-data-final.csv" are not available for viewing, as they contain too much personal/company information of the sales team with whom I collaborated on this project.
 
